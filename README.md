@@ -1,2 +1,2 @@
 brhs website live preview
-https://odin-recipes.github.id
+https://devesh123987.github.io/odin-recipes/
