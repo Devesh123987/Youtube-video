@@ -1,2 +1,2 @@
 brhs website live preview
-https://froshims.github.id
+https://odin-recipes.github.id
