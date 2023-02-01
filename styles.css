@@ -6,6 +6,14 @@ h1{
     text-align: center;
 }
 
+
+p{
+    color: black;
+    font-size: large;
+    font-weight: normal;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 a{
     color: blue;
     font-size: 32px;
@@ -17,4 +25,5 @@ a{
 img {
     height: auto;
     width: 300px;
+    align-content: center;
   }
