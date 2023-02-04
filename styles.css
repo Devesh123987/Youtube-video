@@ -53,8 +53,12 @@ img {
   }
 
   .container {
-    border: 5px solid #ffcc5c;
-    display:flex;
+    background: lightskyblue;
+    padding: 36px;
+    border: 4px solid blue;
+    gap: 108px;
+    display: flex;
+    margin: 30px;
   }
   
   
