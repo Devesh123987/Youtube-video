@@ -60,5 +60,13 @@ img {
     display: flex;
     margin: 30px;
   }
+
+  .item{
+    background: peachpuff;
+    border: 4px solid salmon;
+    height: 48px;
+    flex:1;
+    padding: 5px;
+  }
   
   
