@@ -69,4 +69,6 @@ img {
     padding: 5px;
   }
   
-  
+  .container > div{
+    flex: 1;
+  }
