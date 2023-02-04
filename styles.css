@@ -65,7 +65,7 @@ img {
     height: 60px;
     border: 4px solid darkslategray;
     background: skyblue;
-    align-items: center;
+    justify-content: space-evenly;
   }
 
   
