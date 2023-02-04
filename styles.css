@@ -52,23 +52,21 @@ img {
     align-content: center;
   }
 
-  .container {
-    background: lightskyblue;
-    padding: 36px;
-    border: 4px solid blue;
-    gap: 108px;
+  .container{
+    height: 240px;
+    padding: 16px;
+    background: plum;
+    border: 4px solid indigo;
     display: flex;
-    margin: 30px;
   }
 
-  .item{
-    background: peachpuff;
-    border: 4px solid salmon;
-    height: 48px;
-    flex:1;
-    padding: 5px;
+  .item {
+    width: 60px;
+    height: 60px;
+    border: 4px solid darkslategray;
+    background: skyblue;
+    align-items: center;
   }
+
   
-  .container > div{
-    flex: 1;
-  }
+  
