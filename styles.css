@@ -60,12 +60,13 @@ img {
     display: flex;
   }
 
-  .item {
+  .menu {
     width: 60px;
     height: 60px;
     border: 4px solid darkslategray;
+    display: flex;
     background: skyblue;
-    justify-content: space-evenly;
+    justify-content: center;
   }
 
   
