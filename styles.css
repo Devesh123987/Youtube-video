@@ -50,6 +50,7 @@ img {
     height: auto;
     width: 300px;
     align-content: center;
+    display:flex
   }
 
   .container{
