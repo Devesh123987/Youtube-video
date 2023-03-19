@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    flex: auto;
   }
 
   .menu-container {
@@ -19,11 +19,11 @@
   justify-content: space-between;
   }
 
-  .links {
+  /*.links {
     
     display: flex;
     justify-content: flex-end;
-  }
+  }*/
 
   .login {
     margin-left: 20px;
